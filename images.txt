@@ -1,1 +1,5 @@
-nginx:1.30.0
+# 需要同步的 Docker 镜像列表
+postgres:16
+mysql:5.7
+mysql:8.0.39
+redis:7-alpine
