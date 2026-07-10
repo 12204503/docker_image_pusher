@@ -4,3 +4,6 @@ mysql:5.7
 mysql:8.0.39
 redis:7-alpine
 postgres:12
+nginx:alpine
+eclipse-temurin:8-jre-alpine
+maven:3.8-openjdk-8
