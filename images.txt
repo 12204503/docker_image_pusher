@@ -7,3 +7,4 @@ postgres:12
 nginx:alpine
 eclipse-temurin:8-jre-alpine
 maven:3.8-openjdk-8
+eclipse-temurin:8-jre
