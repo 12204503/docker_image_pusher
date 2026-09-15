@@ -11,3 +11,4 @@ eclipse-temurin:8-jre
 node:16-alpine
 node:18-alpine
 minio/minio:latest
+alpine-ftp-server:latest
