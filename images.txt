@@ -12,3 +12,4 @@ node:16-alpine
 node:18-alpine
 # minio/minio:latest
 delfer/alpine-ftp-server:latest
+python:3.11-slim
