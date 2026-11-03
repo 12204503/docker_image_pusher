@@ -13,3 +13,4 @@ node:18-alpine
 # minio/minio:latest
 delfer/alpine-ftp-server:latest
 python:3.11-slim
+prom/node-exporter:v1.8.2
