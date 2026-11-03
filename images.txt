@@ -16,3 +16,4 @@ python:3.11-slim
 prom/node-exporter:v1.8.2
 prometheus:v2.47.0
 grafana:10.2.0
+prom/prometheus:v2.47.0
