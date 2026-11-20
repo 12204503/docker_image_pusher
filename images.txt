@@ -4,8 +4,8 @@
 # mysql:8.0.39
 redis:7-alpine
 postgres:12
-nginx:alpine
 eclipse-temurin:8-jre-alpine
+nginx:alpine
 maven:3.8-openjdk-8
 maven:3.8-openjdk-17
 eclipse-temurin:8-jre
